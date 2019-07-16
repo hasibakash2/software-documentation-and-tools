@@ -1,7 +1,7 @@
 Each Group will perform these 2 tasks for the upcoming class that will be held on 17-July-19:
 Task 1:
 
-Follow this link for ìGithubî tutorial to complete the assignment:
+Follow this link for ‚ÄúGithub‚Äù tutorial to complete the assignment:
 https://www.tutorialspoint.com/git/
 Perform the following operation:
 
@@ -17,11 +17,3 @@ move operation,
 rename operation, 
 delete operation,
 manage branch.
-
-Task 2:
-Follow this link for ìJiraî tutorial to complete the assignment:
-https://tutorialspoint.com/jira/index.htm
-Perform the following operation:
-Issue creation, clone an Issue, create a subtask, convert Issue a subtask, convert subtask an Issue,
-Edit an Issue, Email an Issue, View/change history.
-After completing the task prepare a presentation and present this in the class.n the class.
